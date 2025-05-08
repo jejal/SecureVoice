@@ -1,0 +1,8 @@
+# 데이터 무시
+/data/
+*.csv
+*.zip
+
+# 캐시/기타
+__pycache__/
+.ipynb_checkpoints/
